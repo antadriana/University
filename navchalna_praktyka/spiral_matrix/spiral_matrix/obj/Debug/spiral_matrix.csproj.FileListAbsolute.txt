@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\spiral_matrix\spiral_matrix\bin\Debug\spiral_matrix.exe.config
+C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\spiral_matrix\spiral_matrix\bin\Debug\spiral_matrix.exe
+C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\spiral_matrix\spiral_matrix\bin\Debug\spiral_matrix.pdb
+C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\spiral_matrix\spiral_matrix\obj\Debug\spiral_matrix.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\spiral_matrix\spiral_matrix\obj\Debug\spiral_matrix.exe
+C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\spiral_matrix\spiral_matrix\obj\Debug\spiral_matrix.pdb

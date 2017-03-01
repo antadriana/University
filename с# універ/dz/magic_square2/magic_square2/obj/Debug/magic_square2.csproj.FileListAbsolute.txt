@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\с# універ\dz\magic_square2\magic_square2\bin\Debug\magic_square2.exe.config
+C:\Users\Admin\Desktop\с# універ\dz\magic_square2\magic_square2\obj\Debug\magic_square2.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\с# універ\dz\magic_square2\magic_square2\bin\Debug\magic_square2.exe
+C:\Users\Admin\Desktop\с# універ\dz\magic_square2\magic_square2\bin\Debug\magic_square2.pdb
+C:\Users\Admin\Desktop\с# універ\dz\magic_square2\magic_square2\obj\Debug\magic_square2.exe
+C:\Users\Admin\Desktop\с# універ\dz\magic_square2\magic_square2\obj\Debug\magic_square2.pdb

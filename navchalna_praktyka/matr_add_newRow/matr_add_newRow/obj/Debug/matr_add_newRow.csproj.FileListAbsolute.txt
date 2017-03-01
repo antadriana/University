@@ -4,3 +4,9 @@ C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\matr_add_newRow\matr_ad
 C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\matr_add_newRow\matr_add_newRow\obj\Debug\matr_add_newRow.csprojResolveAssemblyReference.cache
 C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\matr_add_newRow\matr_add_newRow\obj\Debug\matr_add_newRow.exe
 C:\Users\Admin\Desktop\C-Sharp-Course\DZ_C_Sharp_ Course\matr_add_newRow\matr_add_newRow\obj\Debug\matr_add_newRow.pdb
+C:\Users\Admin\Desktop\University\navchalna_praktyka\matr_add_newRow\matr_add_newRow\bin\Debug\matr_add_newRow.exe.config
+C:\Users\Admin\Desktop\University\navchalna_praktyka\matr_add_newRow\matr_add_newRow\obj\Debug\matr_add_newRow.exe
+C:\Users\Admin\Desktop\University\navchalna_praktyka\matr_add_newRow\matr_add_newRow\obj\Debug\matr_add_newRow.pdb
+C:\Users\Admin\Desktop\University\navchalna_praktyka\matr_add_newRow\matr_add_newRow\bin\Debug\matr_add_newRow.exe
+C:\Users\Admin\Desktop\University\navchalna_praktyka\matr_add_newRow\matr_add_newRow\bin\Debug\matr_add_newRow.pdb
+C:\Users\Admin\Desktop\University\navchalna_praktyka\matr_add_newRow\matr_add_newRow\obj\Debug\matr_add_newRow.csprojResolveAssemblyReference.cache

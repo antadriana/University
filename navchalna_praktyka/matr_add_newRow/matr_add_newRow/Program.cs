@@ -10,13 +10,18 @@ namespace matr_add_newRow
     {
         static void Main(string[] args)
         {
+             Console.WriteLine("Enter the size of matrix, please");
             int n = int.Parse(Console.ReadLine());
-            int[,] matr = new int[n, n];
-            int[,] matr2 = new int[n+1, n];
+            int m = int.Parse(Console.ReadLine());
+           
+
+            int[,] matr = new int[n, m];
+            int[,] matr2 = new int[n+1, m];
+            Console.WriteLine("Enter the elements of your matrix:" );
 
             for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < n; j++)
+                for (int j = 0; j < m; j++)
                 {
                     matr[i, j] = int.Parse(Console.ReadLine());
                 }
@@ -26,7 +31,7 @@ namespace matr_add_newRow
 
             for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < n; j++)
+                for (int j = 0; j < m; j++)
                 {
                     Console.Write(matr[i, j] + " ");
                 }
@@ -35,7 +40,7 @@ namespace matr_add_newRow
             int temp = 0;
             for (int i = 0; i < n; i++)
             {
-                for (int j = 0; j < n; j++)
+                for (int j = 0; j < m; j++)
                 {
 
                     if (minn > matr[i, j])
@@ -46,25 +51,25 @@ namespace matr_add_newRow
                     
                 }
             }
-          //  Console.WriteLine("The minimum is:" +minn+"  temp  "+temp);
+         //   Console.WriteLine("The minimum is:" +minn+"  temp  "+temp);
 
             for(int i=0; i<n+1; i++)
             {
-                for (int j=0; j<n; j++)
+                for (int j=0; j<m; j++)
                 {
                     matr2[i, j] = 0;
                     
                 }  }
             for (int i = 0; i < n ; i++)
             {
-                for (int j = 0; j < n; j++)
+                for (int j = 0; j < m; j++)
                 {
                     matr2[i, j] = matr[i, j];
                 }
             }
 
             for (int i = n; i > temp; i--)
-                for (int j = 0; j < n; j++)
+                for (int j = 0; j < m; j++)
                 {
                     {
                         matr2[i, j] = matr2[i - 1, j];
@@ -72,7 +77,7 @@ namespace matr_add_newRow
                 }
             for (int i = 0; i < n + 1; i++)
             {
-                for (int j = 0; j < n; j++) {
+                for (int j = 0; j < m; j++) {
                     if (i == temp) { matr2[i+1, j] = 0; } }
             }
 
@@ -80,7 +85,7 @@ namespace matr_add_newRow
 
             for (int i = 0; i < n+1; i++)
             {
-                for (int j = 0; j < n; j++)
+                for (int j = 0; j < m; j++)
                 {
                     Console.Write(matr2[i, j] + " ");
                 }
